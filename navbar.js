@@ -1,0 +1,1 @@
+once: false, // whether animation should happen only once - while scr
